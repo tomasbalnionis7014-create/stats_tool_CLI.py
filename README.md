@@ -9,5 +9,5 @@ A simple Python CLI tool to calculate mean, median, mode, and standard deviation
 3. Open a terminal and run:
 
 ```bash
-python stats_tool.py# stats_tool_CLI.py
-A simple Python CLI tool to calculate mean, median, mode, and standard deviation
+python stats_tool.py# stats_tool.py
+
